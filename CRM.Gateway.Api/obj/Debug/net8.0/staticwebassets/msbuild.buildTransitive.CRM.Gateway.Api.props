@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CRM.Gateway.Api.props" />
-</Project>

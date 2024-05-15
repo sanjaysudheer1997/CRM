@@ -1,0 +1,12 @@
+﻿global using Autofac;
+global using Core.Models;
+global using JqueryDataTables.ServerSide.AspNetCoreWeb.Attributes;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.Extensions.Options;
+global using Npgsql;
+global using SqlKata;
+global using SqlKata.Compilers;
+global using SqlKata.Execution;
+global using System.Net;
+global using System.Net.Mail;
+global using System.Reflection;
