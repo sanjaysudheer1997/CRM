@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dotnetapi\\CRM.Gateway.Api\\",
+  "WorkspaceRootPath": "D:\\Git\\CRM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.gateway.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\git\\crm\\crm.gateway.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|solutionrelative:crm.gateway.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|d:\\git\\crm\\crm.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|solutionrelative:crm.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.gateway.api\\extensions\\autofacregistermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\git\\crm\\crm.gateway.api\\extensions\\autofacregistermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|solutionrelative:crm.gateway.api\\extensions\\autofacregistermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.gateway.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|d:\\git\\crm\\crm.gateway.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AB64C09-6FBC-4F53-A827-3F042D0DF7A5}|CRM.Gateway.Api\\CRM.Gateway.Api.csproj|solutionrelative:crm.gateway.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.customer.api\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|d:\\git\\crm\\crm.customer.api\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30DDAA9F-0DB1-4547-9674-148C202A8A0B}|CRM.Customer.Api\\CRM.Customer.Api.csproj|solutionrelative:crm.customer.api\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72B5E2AE-7FCA-41CF-A4D0-F973C387BDB8}|CRM.Common.Core\\CRM.Common.Core.csproj|d:\\dotnetapi\\crm.gateway.api\\crm.common.core\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72B5E2AE-7FCA-41CF-A4D0-F973C387BDB8}|CRM.Common.Core\\CRM.Common.Core.csproj|d:\\git\\crm\\crm.common.core\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B5E2AE-7FCA-41CF-A4D0-F973C387BDB8}|CRM.Common.Core\\CRM.Common.Core.csproj|solutionrelative:crm.common.core\\extensions\\autofacregisterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\appsettings.json",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Gateway.Api\\appsettings.json",
               "RelativeDocumentMoniker": "CRM.Gateway.Api\\appsettings.json",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\appsettings.json",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Gateway.Api\\appsettings.json",
               "RelativeToolTip": "CRM.Gateway.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-05-15T12:23:43.944Z",
               "EditorCaption": ""
@@ -53,9 +53,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AutofacRegisterModule.cs",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
               "RelativeDocumentMoniker": "CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
               "RelativeToolTip": "CRM.Gateway.Api\\Extensions\\AutofacRegisterModule.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAIwCIAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\Program.cs",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Gateway.Api\\Program.cs",
               "RelativeDocumentMoniker": "CRM.Gateway.Api\\Program.cs",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\Program.cs",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Gateway.Api\\Program.cs",
               "RelativeToolTip": "CRM.Gateway.Api\\Program.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAAAA4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "AutofacRegisterExtensions.cs",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
               "RelativeDocumentMoniker": "CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
               "RelativeToolTip": "CRM.Common.Core\\Extensions\\AutofacRegisterExtensions.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,22 +89,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Customer.Api\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Customer.Api\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CRM.Customer.Api\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Customer.Api\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Customer.Api\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CRM.Customer.Api\\Controllers\\CustomerController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:39:13.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T11:39:13.308Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AutofacRegisterExtensions.cs",
-              "DocumentMoniker": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
+              "DocumentMoniker": "D:\\Git\\CRM\\CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
               "RelativeDocumentMoniker": "CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
-              "ToolTip": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
+              "ToolTip": "D:\\Git\\CRM\\CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
               "RelativeToolTip": "CRM.Customer.Api\\Extensions\\AutofacRegisterExtensions.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAuwBUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

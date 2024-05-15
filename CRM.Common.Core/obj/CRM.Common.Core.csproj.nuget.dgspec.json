@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\CRM.Common.Core.csproj": {}
+    "D:\\Git\\CRM\\CRM.Common.Core\\CRM.Common.Core.csproj": {}
   },
   "projects": {
-    "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\CRM.Common.Core.csproj": {
+    "D:\\Git\\CRM\\CRM.Common.Core\\CRM.Common.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\CRM.Common.Core.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\CRM.Common.Core\\CRM.Common.Core.csproj",
         "projectName": "CRM.Common.Core",
-        "projectPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\CRM.Common.Core.csproj",
+        "projectPath": "D:\\Git\\CRM\\CRM.Common.Core\\CRM.Common.Core.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Core\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\CRM.Common.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj": {
-                "projectPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj"
+              "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj": {
+                "projectPath": "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj": {
+    "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj",
         "projectName": "CRM.Common.Models",
-        "projectPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj",
+        "projectPath": "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\CRM.Common.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",

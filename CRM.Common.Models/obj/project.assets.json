@@ -3321,11 +3321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj",
+      "projectUniqueName": "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj",
       "projectName": "CRM.Common.Models",
-      "projectPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\CRM.Common.Models.csproj",
+      "projectPath": "D:\\Git\\CRM\\CRM.Common.Models\\CRM.Common.Models.csproj",
       "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Common.Models\\obj\\",
+      "outputPath": "D:\\Git\\CRM\\CRM.Common.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",

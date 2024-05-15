@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYTOrK4+Gq1zpssq6OY2zpUS7FRCYMLiPXHKLcp6l6YC0QumnHXUBAY7xVNBQUYp6zbgJScyegWfZjUP3Dblnw==",
+  "dgSpecHash": "VfPhWJuQqnM73enfHigtgrQxsjJnq04C2FhUg7FKibWkrHW533hqQPckJsxXgjwLQPrYYqVWMNkWYDaDv635xA==",
   "success": true,
-  "projectFilePath": "D:\\dotnetapi\\CRM.Gateway.Api\\CRM.Gateway.Api\\CRM.Gateway.Api.csproj",
+  "projectFilePath": "D:\\Git\\CRM\\CRM.Gateway.Api\\CRM.Gateway.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TUF GAMING\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\TUF GAMING\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",
