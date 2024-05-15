@@ -1,0 +1,12 @@
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\bin\Debug\net8.0\CRM.Common.Models.deps.json
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\bin\Debug\net8.0\CRM.Common.Models.dll
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\bin\Debug\net8.0\CRM.Common.Models.pdb
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.csproj.AssemblyReference.cache
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.AssemblyInfoInputs.cache
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.AssemblyInfo.cs
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.csproj.CoreCompileInputs.cache
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.dll
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\refint\CRM.Common.Models.dll
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\CRM.Common.Models.pdb
+D:\dotnetapi\CRM.Gateway.Api\CRM.Common.Models\obj\Debug\net8.0\ref\CRM.Common.Models.dll
