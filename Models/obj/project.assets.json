@@ -1800,7 +1800,7 @@
           }
         }
       },
-      "Npgsql/8.0.2": {
+      "Npgsql/8.0.3": {
         "type": "package",
         "dependencies": {
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0"
@@ -3573,7 +3573,7 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.AspNetCore.Razor": "2.2.0",
           "Microsoft.Extensions.Hosting": "8.0.0",
-          "Npgsql": "8.0.2",
+          "Npgsql": "8.0.3",
           "Refit": "7.0.0",
           "SqlKata": "2.4.0",
           "SqlKata.Execution": "2.4.0"
@@ -5622,10 +5622,10 @@
         "newtonsoft.json.bson.nuspec"
       ]
     },
-    "Npgsql/8.0.2": {
-      "sha512": "MuJzLoWCaQhQAR3oh66YR0Ir6mxuezncGX3f8wxvAc21g0+9HICktJQlqMoODhxztZKXE5k9GxRxqUAN+vPb4g==",
+    "Npgsql/8.0.3": {
+      "sha512": "6WEmzsQJCZAlUG1pThKg/RmeF6V+I0DmBBBE/8YzpRtEzhyZzKcK7ulMANDm5CkxrALBEC8H+5plxHWtIL7xnA==",
       "type": "package",
-      "path": "npgsql/8.0.2",
+      "path": "npgsql/8.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -5640,7 +5640,7 @@
         "lib/netstandard2.0/Npgsql.xml",
         "lib/netstandard2.1/Npgsql.dll",
         "lib/netstandard2.1/Npgsql.xml",
-        "npgsql.8.0.2.nupkg.sha512",
+        "npgsql.8.0.3.nupkg.sha512",
         "npgsql.nuspec",
         "postgresql.png"
       ]
@@ -9914,11 +9914,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj",
+      "projectUniqueName": "D:\\Git\\CRM\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj",
+      "projectPath": "D:\\Git\\CRM\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnetapi\\WebApplication2\\Models\\obj\\",
+      "outputPath": "D:\\Git\\CRM\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9935,8 +9935,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
-              "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj"
+            "D:\\Git\\CRM\\Core\\Core.csproj": {
+              "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj"
             }
           }
         }

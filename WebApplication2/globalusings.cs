@@ -2,3 +2,14 @@
 global using Core.Services;
 global using Models;
 global using Npgsql;
+global using Autofac;
+global using Autofac.Extensions.DependencyInjection;
+global using Core.Exceptions;
+global using Core.Models;
+global using CRMAPI.Extenstions;
+global using Dapper;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.OpenApi.Models;
+global using OnlineMagic.Common.Core.Extensions;
+global using Serilog;
+global using WebApplication2.Controllers;

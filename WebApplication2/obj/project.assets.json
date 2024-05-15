@@ -2539,32 +2539,6 @@
           }
         }
       },
-      "Portable.BouncyCastle/1.9.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Razorpay/3.1.2": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Portable.BouncyCastle": "1.9.0"
-        },
-        "compile": {
-          "lib/net45/Razorpay.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Razorpay.dll": {}
-        }
-      },
       "Refit/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -4486,7 +4460,7 @@
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.AspNetCore.Razor": "2.2.0",
           "Microsoft.Extensions.Hosting": "8.0.0",
-          "Npgsql": "8.0.2",
+          "Npgsql": "8.0.3",
           "Refit": "7.0.0",
           "SqlKata": "2.4.0",
           "SqlKata.Execution": "2.4.0"
@@ -7712,35 +7686,6 @@
         "npgsql.8.0.3.nupkg.sha512",
         "npgsql.nuspec",
         "postgresql.png"
-      ]
-    },
-    "Portable.BouncyCastle/1.9.0": {
-      "sha512": "eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
-      "type": "package",
-      "path": "portable.bouncycastle/1.9.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/BouncyCastle.Crypto.dll",
-        "lib/net40/BouncyCastle.Crypto.xml",
-        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
-        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
-        "portable.bouncycastle.1.9.0.nupkg.sha512",
-        "portable.bouncycastle.nuspec"
-      ]
-    },
-    "Razorpay/3.1.2": {
-      "sha512": "Gcoybs9NCMUI0SJpGigP40LYsafrrl41FGORzFQ6kscOKe68K7w1D3ERPVq4GPBldPOdtrNUl+KPiqjZDIOhmg==",
-      "type": "package",
-      "path": "razorpay/3.1.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/Razorpay.dll",
-        "lib/net45/Razorpay.dll",
-        "lib/net47/Razorpay.dll",
-        "razorpay.3.1.2.nupkg.sha512",
-        "razorpay.nuspec"
       ]
     },
     "Refit/7.0.0": {
@@ -12267,7 +12212,6 @@
       "Microsoft.AspNetCore.OpenApi >= 8.0.5",
       "Models >= 1.0.0",
       "Npgsql >= 8.0.3",
-      "Razorpay >= 3.1.2",
       "Serilog >= 3.1.1",
       "Serilog.Extensions.Hosting >= 8.0.0",
       "Serilog.Settings.Configuration >= 8.0.0",
@@ -12282,11 +12226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj",
+      "projectUniqueName": "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj",
       "projectName": "CRMAPI",
-      "projectPath": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj",
+      "projectPath": "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj",
       "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "D:\\Git\\CRM\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12303,11 +12247,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
-              "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj"
+            "D:\\Git\\CRM\\Core\\Core.csproj": {
+              "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj"
             },
-            "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj": {
-              "projectPath": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj"
+            "D:\\Git\\CRM\\Models\\Models.csproj": {
+              "projectPath": "D:\\Git\\CRM\\Models\\Models.csproj"
             }
           }
         }
@@ -12354,10 +12298,6 @@
           "Npgsql": {
             "target": "Package",
             "version": "[8.0.3, )"
-          },
-          "Razorpay": {
-            "target": "Package",
-            "version": "[3.1.2, )"
           },
           "Serilog": {
             "target": "Package",
@@ -12406,17 +12346,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Razorpay 3.1.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Razorpay",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

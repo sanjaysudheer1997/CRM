@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj": {}
+    "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj": {}
   },
   "projects": {
-    "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
+    "D:\\Git\\CRM\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj",
+        "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\WebApplication2\\Core\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,7 +103,7 @@
             },
             "Npgsql": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.3, )"
             },
             "Refit": {
               "target": "Package",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj": {
+    "D:\\Git\\CRM\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj",
+        "projectPath": "D:\\Git\\CRM\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\WebApplication2\\Models\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +162,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
-                "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj"
+              "D:\\Git\\CRM\\Core\\Core.csproj": {
+                "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj": {
+    "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj",
         "projectName": "CRMAPI",
-        "projectPath": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\CRMAPI.csproj",
+        "projectPath": "D:\\Git\\CRM\\WebApplication2\\CRMAPI.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\WebApplication2\\WebApplication2\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -226,11 +226,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
-                "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj"
+              "D:\\Git\\CRM\\Core\\Core.csproj": {
+                "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj"
               },
-              "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj": {
-                "projectPath": "D:\\dotnetapi\\WebApplication2\\Models\\Models.csproj"
+              "D:\\Git\\CRM\\Models\\Models.csproj": {
+                "projectPath": "D:\\Git\\CRM\\Models\\Models.csproj"
               }
             }
           }
@@ -277,10 +277,6 @@
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.3, )"
-            },
-            "Razorpay": {
-              "target": "Package",
-              "version": "[3.1.2, )"
             },
             "Serilog": {
               "target": "Package",

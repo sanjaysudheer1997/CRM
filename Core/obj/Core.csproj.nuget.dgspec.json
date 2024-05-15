@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {}
+    "D:\\Git\\CRM\\Core\\Core.csproj": {}
   },
   "projects": {
-    "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj": {
+    "D:\\Git\\CRM\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Git\\CRM\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\dotnetapi\\WebApplication2\\Core\\Core.csproj",
+        "projectPath": "D:\\Git\\CRM\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\TUF GAMING\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnetapi\\WebApplication2\\Core\\obj\\",
+        "outputPath": "D:\\Git\\CRM\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TUF GAMING\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -103,7 +103,7 @@
             },
             "Npgsql": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.3, )"
             },
             "Refit": {
               "target": "Package",

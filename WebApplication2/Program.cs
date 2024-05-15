@@ -1,15 +1,3 @@
-using Autofac;
-using Autofac.Extensions.DependencyInjection;
-using Core.Exceptions;
-using Core.Models;
-using CRMAPI.Extenstions;
-using Dapper;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.OpenApi.Models;
-using OnlineMagic.Common.Core.Extensions;
-using Serilog;
-using WebApplication2.Controllers;
-
 var builder = WebApplication.CreateBuilder(args);
 
 //configure additional configuraiton file(s) - serilog

@@ -17,7 +17,6 @@
           "Microsoft.AspNetCore.OpenApi": "8.0.5",
           "Models": "1.0.0",
           "Npgsql": "8.0.3",
-          "Razorpay": "3.1.2",
           "Serilog": "3.1.1",
           "Serilog.Extensions.Hosting": "8.0.0",
           "Serilog.Settings.Configuration": "8.0.0",
@@ -1481,26 +1480,6 @@
           "lib/net8.0/Npgsql.dll": {
             "assemblyVersion": "8.0.3.0",
             "fileVersion": "8.0.3.0"
-          }
-        }
-      },
-      "Portable.BouncyCastle/1.9.0": {
-        "runtime": {
-          "lib/netstandard2.0/BouncyCastle.Crypto.dll": {
-            "assemblyVersion": "1.9.0.0",
-            "fileVersion": "1.9.0.1"
-          }
-        }
-      },
-      "Razorpay/3.1.2": {
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.3",
-          "Portable.BouncyCastle": "1.9.0"
-        },
-        "runtime": {
-          "lib/net45/Razorpay.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
           }
         }
       },
@@ -3592,20 +3571,6 @@
       "sha512": "sha512-6WEmzsQJCZAlUG1pThKg/RmeF6V+I0DmBBBE/8YzpRtEzhyZzKcK7ulMANDm5CkxrALBEC8H+5plxHWtIL7xnA==",
       "path": "npgsql/8.0.3",
       "hashPath": "npgsql.8.0.3.nupkg.sha512"
-    },
-    "Portable.BouncyCastle/1.9.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-eZZBCABzVOek+id9Xy04HhmgykF0wZg9wpByzrWN7q8qEI0Qen9b7tfd7w8VA3dOeesumMG7C5ZPy0jk7PSRHw==",
-      "path": "portable.bouncycastle/1.9.0",
-      "hashPath": "portable.bouncycastle.1.9.0.nupkg.sha512"
-    },
-    "Razorpay/3.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Gcoybs9NCMUI0SJpGigP40LYsafrrl41FGORzFQ6kscOKe68K7w1D3ERPVq4GPBldPOdtrNUl+KPiqjZDIOhmg==",
-      "path": "razorpay/3.1.2",
-      "hashPath": "razorpay.3.1.2.nupkg.sha512"
     },
     "Refit/7.0.0": {
       "type": "package",
